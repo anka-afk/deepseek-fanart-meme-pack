@@ -1,0 +1,2442 @@
+{
+  "source_collection": "deepseek",
+  "variant": "fanart-mixed-style",
+  "images": [
+    {
+      "source_index": 1,
+      "source_name": "sticker_bf_001.png",
+      "category": "work",
+      "filename": "0001_sticker_bf_001.png",
+      "path": "memes/work/0001_sticker_bf_001.png",
+      "sha256": "93fb4b37bd7f8bdfe803bf86afb1f5776204984188716ac1d4e0f817caf6ad71",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_index": 2,
+      "source_name": "sticker_bf_002.png",
+      "category": "confused",
+      "filename": "0002_sticker_bf_002.png",
+      "path": "memes/confused/0002_sticker_bf_002.png",
+      "sha256": "b70c46ce878d55fdeecdc2f43348ec17089379be9a0c49ee1e5716deb4a1f72b",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        648,
+        648
+      ]
+    },
+    {
+      "source_index": 3,
+      "source_name": "sticker_bf_004.webp",
+      "category": "affection",
+      "filename": "0003_sticker_bf_004.webp",
+      "path": "memes/affection/0003_sticker_bf_004.webp",
+      "sha256": "735c51f2e41c47a99d6d841028bf21b6ec74e41ff715d63f0323394d33b85338",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 4,
+      "source_name": "sticker_bf_006.webp",
+      "category": "angry",
+      "filename": "0004_sticker_bf_006.webp",
+      "path": "memes/angry/0004_sticker_bf_006.webp",
+      "sha256": "b178ddbf71b5cb22109ea0776c589c575e145b6700fafdf984ccce86620cb72f",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 5,
+      "source_name": "sticker_bf_007.png",
+      "category": "confused",
+      "filename": "0005_sticker_bf_007.png",
+      "path": "memes/confused/0005_sticker_bf_007.png",
+      "sha256": "46fa9c3483a43b0df622179f70ef31f6d9528e85395422d47d5392e743212409",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        648,
+        648
+      ]
+    },
+    {
+      "source_index": 6,
+      "source_name": "sticker_bf_008.png",
+      "category": "greeting",
+      "filename": "0006_sticker_bf_008.png",
+      "path": "memes/greeting/0006_sticker_bf_008.png",
+      "sha256": "f8d0f372999849a88b7cab7d44ac79d83f49d1dc5f1e2be2663e8df3f02a1484",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        960,
+        720
+      ]
+    },
+    {
+      "source_index": 7,
+      "source_name": "sticker_bf_009.png",
+      "category": "angry",
+      "filename": "0007_sticker_bf_009.png",
+      "path": "memes/angry/0007_sticker_bf_009.png",
+      "sha256": "b10d462580d3d4b5e43c7d48723e043489f59b851458c3a0168d37d4a1f8f37d",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        590,
+        647
+      ]
+    },
+    {
+      "source_index": 8,
+      "source_name": "sticker_bf_010.webp",
+      "category": "happy",
+      "filename": "0008_sticker_bf_010.webp",
+      "path": "memes/happy/0008_sticker_bf_010.webp",
+      "sha256": "02de8a5277cd1c194eef48dd2437b56de4c0dfeba71cafcf15dd7e6fa9e69acf",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 9,
+      "source_name": "sticker_bf_011.png",
+      "category": "teasing",
+      "filename": "0009_sticker_bf_011.png",
+      "path": "memes/teasing/0009_sticker_bf_011.png",
+      "sha256": "d3862c6bca2c12434f16b6f6b01618f26cb9b8646d7115e77d4068482e790d52",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        720,
+        720
+      ]
+    },
+    {
+      "source_index": 10,
+      "source_name": "sticker_bf_012.png",
+      "category": "work",
+      "filename": "0010_sticker_bf_012.png",
+      "path": "memes/work/0010_sticker_bf_012.png",
+      "sha256": "00923b59d85c74937ea9a8820de3cb0d6f31f6e7989924ee3225fdc47bcef68b",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 11,
+      "source_name": "sticker_bf_015.png",
+      "category": "sad",
+      "filename": "0011_sticker_bf_015.png",
+      "path": "memes/sad/0011_sticker_bf_015.png",
+      "sha256": "233bd05c75affb18273dff944814f611e1aa6c0eafeb34829842af9d539f2096",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        850,
+        808
+      ]
+    },
+    {
+      "source_index": 12,
+      "source_name": "sticker_bf_016.webp",
+      "category": "food",
+      "filename": "0012_sticker_bf_016.webp",
+      "path": "memes/food/0012_sticker_bf_016.webp",
+      "sha256": "1c2cd4c890420215a7dea577a01935a3956f0559382d0a504a94e9e3d84bb6e6",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 13,
+      "source_name": "sticker_bf_017.png",
+      "category": "sad",
+      "filename": "0013_sticker_bf_017.png",
+      "path": "memes/sad/0013_sticker_bf_017.png",
+      "sha256": "9c1ce200d693a50e386680066b3cacf741fca1cab9c06b5a4f6381f2035164f5",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        960,
+        960
+      ]
+    },
+    {
+      "source_index": 14,
+      "source_name": "sticker_bf_018.webp",
+      "category": "sleep",
+      "filename": "0014_sticker_bf_018.webp",
+      "path": "memes/sleep/0014_sticker_bf_018.webp",
+      "sha256": "46bdb0b8c3cb70162e1db96029ebc410de77c7cd7fc906d483cf472e6f5e2c58",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 15,
+      "source_name": "sticker_bf_019.jpg",
+      "category": "sad",
+      "filename": "0015_sticker_bf_019.jpg",
+      "path": "memes/sad/0015_sticker_bf_019.jpg",
+      "sha256": "2bfb44d5c553961d67fe8e02a6f0b3cb153fa79ba74450e376ea7c932f9e8c4b",
+      "format": "JPEG",
+      "frames": 1,
+      "size": [
+        960,
+        1231
+      ]
+    },
+    {
+      "source_index": 16,
+      "source_name": "sticker_bf_021.png",
+      "category": "affection",
+      "filename": "0016_sticker_bf_021.png",
+      "path": "memes/affection/0016_sticker_bf_021.png",
+      "sha256": "0e3334b1ec1b3d6b553a54cddae75c2d126351bb86629e18b4928b30f0e7503e",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_index": 17,
+      "source_name": "sticker_bf_022.png",
+      "category": "food",
+      "filename": "0017_sticker_bf_022.png",
+      "path": "memes/food/0017_sticker_bf_022.png",
+      "sha256": "8518c997ebb1598b58e609c7aebdd21c12a2fa2352a21beb4e9a8d675dfaddea",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        850,
+        850
+      ]
+    },
+    {
+      "source_index": 18,
+      "source_name": "sticker_bf_024.webp",
+      "category": "happy",
+      "filename": "0018_sticker_bf_024.webp",
+      "path": "memes/happy/0018_sticker_bf_024.webp",
+      "sha256": "180e599a0deb187f802ba1501af26c17b72921ad3b2de5b5a210dba1ca8fbdde",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 19,
+      "source_name": "sticker_bf_025.png",
+      "category": "happy",
+      "filename": "0019_sticker_bf_025.png",
+      "path": "memes/happy/0019_sticker_bf_025.png",
+      "sha256": "e9502e6260bf966ccb75076076a657224b636a5a58c0874d260d872b9fb14f7d",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1280,
+        1214
+      ]
+    },
+    {
+      "source_index": 20,
+      "source_name": "sticker_bf_027.jpg",
+      "category": "greeting",
+      "filename": "0020_sticker_bf_027.jpg",
+      "path": "memes/greeting/0020_sticker_bf_027.jpg",
+      "sha256": "80de0caa2456969b36cd74f8dc921c5c0e89b4a17548cf5d6cfa097dec71da3d",
+      "format": "JPEG",
+      "frames": 1,
+      "size": [
+        960,
+        960
+      ]
+    },
+    {
+      "source_index": 21,
+      "source_name": "sticker_bf_028.png",
+      "category": "tech",
+      "filename": "0021_sticker_bf_028.png",
+      "path": "memes/tech/0021_sticker_bf_028.png",
+      "sha256": "7dbd521243113cee8d2da04f373c439a2a87708a8086e236453552e9742ae64d",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        513,
+        648
+      ]
+    },
+    {
+      "source_index": 22,
+      "source_name": "sticker_bf_029.webp",
+      "category": "confused",
+      "filename": "0022_sticker_bf_029.webp",
+      "path": "memes/confused/0022_sticker_bf_029.webp",
+      "sha256": "bac9a4c268d59a55061893f5c0b668ba9ae1c91897988aaa801363449bdb43e6",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 23,
+      "source_name": "sticker_bf_031.jpg",
+      "category": "sad",
+      "filename": "0023_sticker_bf_031.jpg",
+      "path": "memes/sad/0023_sticker_bf_031.jpg",
+      "sha256": "313d8d84ab15372ad0e7fe2135b2260b46e75826aaa9272e8584dabc108998b6",
+      "format": "JPEG",
+      "frames": 1,
+      "size": [
+        648,
+        990
+      ]
+    },
+    {
+      "source_index": 24,
+      "source_name": "sticker_bf_032.jpg",
+      "category": "happy",
+      "filename": "0024_sticker_bf_032.jpg",
+      "path": "memes/happy/0024_sticker_bf_032.jpg",
+      "sha256": "d73ce7af07e8334e2bb3a0a147ebd562530a04d38ef31a9e07c4cb4f7af1e749",
+      "format": "JPEG",
+      "frames": 1,
+      "size": [
+        960,
+        1280
+      ]
+    },
+    {
+      "source_index": 25,
+      "source_name": "sticker_bf_034.webp",
+      "category": "food",
+      "filename": "0025_sticker_bf_034.webp",
+      "path": "memes/food/0025_sticker_bf_034.webp",
+      "sha256": "960709df85f499270cf8891f48261f4f6cdc9ff43c78c3369b54d776e66338b3",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 26,
+      "source_name": "sticker_bf_035.jpg",
+      "category": "sad",
+      "filename": "0026_sticker_bf_035.jpg",
+      "path": "memes/sad/0026_sticker_bf_035.jpg",
+      "sha256": "0e6f7d3da4d9149c44c190fbc1402519837ac154207a3cd8fecd2e24eb92e3a2",
+      "format": "JPEG",
+      "frames": 1,
+      "size": [
+        1026,
+        1026
+      ]
+    },
+    {
+      "source_index": 27,
+      "source_name": "sticker_bf_036.webp",
+      "category": "tech",
+      "filename": "0027_sticker_bf_036.webp",
+      "path": "memes/tech/0027_sticker_bf_036.webp",
+      "sha256": "5158927c4120c83b776c070134072e776d23862e14ef9b7fa980504eb13c3e55",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 28,
+      "source_name": "sticker_bf_037.png",
+      "category": "tech",
+      "filename": "0028_sticker_bf_037.png",
+      "path": "memes/tech/0028_sticker_bf_037.png",
+      "sha256": "2ec56f9d51d3d432915156ce852cb37459a6c4ee2bc2a3ad0ea2eabcf3fda1bb",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        960,
+        806
+      ]
+    },
+    {
+      "source_index": 29,
+      "source_name": "sticker_bf_040.png",
+      "category": "work",
+      "filename": "0029_sticker_bf_040.png",
+      "path": "memes/work/0029_sticker_bf_040.png",
+      "sha256": "04c1cad917893c01ef441ce58455a95ae9db183596f0efec4a10eabc86980269",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_index": 30,
+      "source_name": "sticker_bf_042.webp",
+      "category": "sleep",
+      "filename": "0030_sticker_bf_042.webp",
+      "path": "memes/sleep/0030_sticker_bf_042.webp",
+      "sha256": "90d11662e3e07f6ff649d074dfbf18b3d27d740c8295a923cbfffb97ccd0521c",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 31,
+      "source_name": "sticker_bf_043.webp",
+      "category": "food",
+      "filename": "0031_sticker_bf_043.webp",
+      "path": "memes/food/0031_sticker_bf_043.webp",
+      "sha256": "dfc9bac2f86f723bc5992d905ccdc16885f9ad472a95662075ffcc1a20115332",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 32,
+      "source_name": "sticker_bf_046.webp",
+      "category": "happy",
+      "filename": "0032_sticker_bf_046.webp",
+      "path": "memes/happy/0032_sticker_bf_046.webp",
+      "sha256": "aca9b7f44d306bb7eb631d80c5e34f4768c74dc84b88a4dcf09720ebb317b4e6",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 33,
+      "source_name": "sticker_bf_047.png",
+      "category": "confused",
+      "filename": "0033_sticker_bf_047.png",
+      "path": "memes/confused/0033_sticker_bf_047.png",
+      "sha256": "df5572ae35e81c99bee99bed080b3c11f7873ffb014f6f6c80c3f0e7b989f726",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        960,
+        960
+      ]
+    },
+    {
+      "source_index": 34,
+      "source_name": "sticker_bf_048.webp",
+      "category": "greeting",
+      "filename": "0034_sticker_bf_048.webp",
+      "path": "memes/greeting/0034_sticker_bf_048.webp",
+      "sha256": "eace1fc6c8d063aded10adcdea6c156ff3725098b1dd7eed33390ed35c47ed70",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 35,
+      "source_name": "sticker_bf_049.jpg",
+      "category": "angry",
+      "filename": "0035_sticker_bf_049.jpg",
+      "path": "memes/angry/0035_sticker_bf_049.jpg",
+      "sha256": "3e93d95a3639ef59a98d1481cb65ae951c0a272cb1c4452297796b9dd5bdffcf",
+      "format": "JPEG",
+      "frames": 1,
+      "size": [
+        960,
+        960
+      ]
+    },
+    {
+      "source_index": 36,
+      "source_name": "sticker_bf_050.webp",
+      "category": "confused",
+      "filename": "0036_sticker_bf_050.webp",
+      "path": "memes/confused/0036_sticker_bf_050.webp",
+      "sha256": "30de391334b132b34be564b4ec1f4373f19c424c9abda37d0a9878ba53fc1988",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 37,
+      "source_name": "sticker_bf_054.png",
+      "category": "food",
+      "filename": "0037_sticker_bf_054.png",
+      "path": "memes/food/0037_sticker_bf_054.png",
+      "sha256": "8b78987ecb9d17bf7f5728e98876c57997a91f7e5925b0035d5b7e9119df93b9",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        648,
+        648
+      ]
+    },
+    {
+      "source_index": 38,
+      "source_name": "sticker_bf_058.webp",
+      "category": "sad",
+      "filename": "0038_sticker_bf_058.webp",
+      "path": "memes/sad/0038_sticker_bf_058.webp",
+      "sha256": "969d79244899f5d03fe14abdc1568be638785d99e90843f1549d3b4354f91925",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 39,
+      "source_name": "sticker_bf_059.png",
+      "category": "confused",
+      "filename": "0039_sticker_bf_059.png",
+      "path": "memes/confused/0039_sticker_bf_059.png",
+      "sha256": "b456940e989673d6c986a6739c63c491b880c676e0a1f96594cfea07db13e87a",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        960,
+        955
+      ]
+    },
+    {
+      "source_index": 40,
+      "source_name": "sticker_bf_060.png",
+      "category": "tech",
+      "filename": "0040_sticker_bf_060.png",
+      "path": "memes/tech/0040_sticker_bf_060.png",
+      "sha256": "fa5c6b93d1a87662b329162a373fb8745fdf74a5febc14db3b38d9ba1c9a41be",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        648,
+        648
+      ]
+    },
+    {
+      "source_index": 41,
+      "source_name": "sticker_bf_061.webp",
+      "category": "food",
+      "filename": "0041_sticker_bf_061.webp",
+      "path": "memes/food/0041_sticker_bf_061.webp",
+      "sha256": "20dc505a1498a2ba2662afefcead4e80388cc50cd4e792aff21265b71df29839",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 42,
+      "source_name": "sticker_bf_063.jpg",
+      "category": "angry",
+      "filename": "0042_sticker_bf_063.jpg",
+      "path": "memes/angry/0042_sticker_bf_063.jpg",
+      "sha256": "8be1ef7e26edf97fb24b7346906ea3c5180a5ec49a733b81a83e195ee926bab2",
+      "format": "JPEG",
+      "frames": 1,
+      "size": [
+        960,
+        960
+      ]
+    },
+    {
+      "source_index": 43,
+      "source_name": "sticker_bf_064.png",
+      "category": "money",
+      "filename": "0043_sticker_bf_064.png",
+      "path": "memes/money/0043_sticker_bf_064.png",
+      "sha256": "44269412e435631d013097aa8e4d7193dafa618cd8b3c0b0bd609e5be6bd95dd",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_index": 44,
+      "source_name": "sticker_bf_065.png",
+      "category": "work",
+      "filename": "0044_sticker_bf_065.png",
+      "path": "memes/work/0044_sticker_bf_065.png",
+      "sha256": "2bab31fe39cf808e7dcab698fa35ddfd2015602d2ed1b05cef7b36b821a28dde",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        648,
+        648
+      ]
+    },
+    {
+      "source_index": 45,
+      "source_name": "sticker_bf_066.jpg",
+      "category": "greeting",
+      "filename": "0045_sticker_bf_066.png",
+      "path": "memes/greeting/0045_sticker_bf_066.png",
+      "sha256": "42843dac30ecfb327f187d36a526bbc705b67bb8e361d4a1909b318828a2307f",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_index": 46,
+      "source_name": "sticker_bf_068.webp",
+      "category": "food",
+      "filename": "0046_sticker_bf_068.webp",
+      "path": "memes/food/0046_sticker_bf_068.webp",
+      "sha256": "c70c153d40652df13fa47ef656a187e8327552e4c60fd7c4de62b652ebf6083b",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 47,
+      "source_name": "sticker_bf_069.webp",
+      "category": "teasing",
+      "filename": "0047_sticker_bf_069.webp",
+      "path": "memes/teasing/0047_sticker_bf_069.webp",
+      "sha256": "a83d0e6dfdf0b969100e08e17b1fcc1cff6829fbdf73724f5741e19a41e0556d",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 48,
+      "source_name": "sticker_bf_070.png",
+      "category": "happy",
+      "filename": "0048_sticker_bf_070.png",
+      "path": "memes/happy/0048_sticker_bf_070.png",
+      "sha256": "1447957c5c790ba58d5772765a9c248a6f14bba9e8f08a987404542abc5c01a3",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        960,
+        960
+      ]
+    },
+    {
+      "source_index": 49,
+      "source_name": "sticker_bf_072.webp",
+      "category": "food",
+      "filename": "0049_sticker_bf_072.webp",
+      "path": "memes/food/0049_sticker_bf_072.webp",
+      "sha256": "a1f4d2fe64a62d8d74ce4ecb7fb9708954a34fe230d39f2b6de74faa9d3ad923",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 50,
+      "source_name": "sticker_bf_073.png",
+      "category": "sad",
+      "filename": "0050_sticker_bf_073.png",
+      "path": "memes/sad/0050_sticker_bf_073.png",
+      "sha256": "aaa90e351951aa2b285838f82ba9367e0ae37f149850f98781a56bdf087ab50c",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        648,
+        616
+      ]
+    },
+    {
+      "source_index": 51,
+      "source_name": "sticker_bf_075.png",
+      "category": "angry",
+      "filename": "0051_sticker_bf_075.png",
+      "path": "memes/angry/0051_sticker_bf_075.png",
+      "sha256": "a543f940c34902acff613c76128c42a8e696540a8491665aeea5637e43c95b22",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        960,
+        960
+      ]
+    },
+    {
+      "source_index": 52,
+      "source_name": "sticker_bf_077.png",
+      "category": "sad",
+      "filename": "0052_sticker_bf_077.png",
+      "path": "memes/sad/0052_sticker_bf_077.png",
+      "sha256": "7c10bf038455575fa4c333cd93b97171a7a5949b0204791d2c5b61d05abfb25f",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        648,
+        648
+      ]
+    },
+    {
+      "source_index": 53,
+      "source_name": "sticker_bf_078.png",
+      "category": "angry",
+      "filename": "0053_sticker_bf_078.png",
+      "path": "memes/angry/0053_sticker_bf_078.png",
+      "sha256": "94aa5a3d0b24a90873d59845071051fe4223ea99105542507f76e51f34b8ebce",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_index": 54,
+      "source_name": "sticker_bf_079.webp",
+      "category": "work",
+      "filename": "0054_sticker_bf_079.webp",
+      "path": "memes/work/0054_sticker_bf_079.webp",
+      "sha256": "cc8432c6cc401c2b3e8d4e0b85af44944df4c65784a7897acc74da455ac4e39e",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 55,
+      "source_name": "sticker_bf_081.png",
+      "category": "tech",
+      "filename": "0055_sticker_bf_081.png",
+      "path": "memes/tech/0055_sticker_bf_081.png",
+      "sha256": "f5fead5c192b65c4f1e59ffc1f5eeef5762552171b0baaa37df02831e24b1e81",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        648,
+        608
+      ]
+    },
+    {
+      "source_index": 56,
+      "source_name": "sticker_bf_082.webp",
+      "category": "greeting",
+      "filename": "0056_sticker_bf_082.webp",
+      "path": "memes/greeting/0056_sticker_bf_082.webp",
+      "sha256": "2df932f76a8b59fd10717d535bd9b6044da98c081fd61780d05a342e56ad50d8",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 57,
+      "source_name": "sticker_bf_083.png",
+      "category": "work",
+      "filename": "0057_sticker_bf_083.png",
+      "path": "memes/work/0057_sticker_bf_083.png",
+      "sha256": "1eb77edc94fb19b3e02eec016ae52d5c9eaffa52791158595cc0e8098652d4e7",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "source_index": 58,
+      "source_name": "sticker_bf_084.png",
+      "category": "portrait",
+      "filename": "0058_sticker_bf_084.png",
+      "path": "memes/portrait/0058_sticker_bf_084.png",
+      "sha256": "89367d1dfbc0ee4df080931e3e719fe1f61668fec1b43ed6fb7b9486ae376d49",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        648,
+        458
+      ]
+    },
+    {
+      "source_index": 59,
+      "source_name": "sticker_bf_085.png",
+      "category": "confused",
+      "filename": "0059_sticker_bf_085.png",
+      "path": "memes/confused/0059_sticker_bf_085.png",
+      "sha256": "6cdcf9387e321039d4e0db1834f79b23811eb3b80b135536e316cde11daf96ee",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_index": 60,
+      "source_name": "sticker_bf_087.webp",
+      "category": "food",
+      "filename": "0060_sticker_bf_087.webp",
+      "path": "memes/food/0060_sticker_bf_087.webp",
+      "sha256": "61c30ff275afdf3c6ff33e6f90014a10d3201bbf7f564ab9e5243d5b89636649",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 61,
+      "source_name": "sticker_bf_089.jpg",
+      "category": "sad",
+      "filename": "0061_sticker_bf_089.jpg",
+      "path": "memes/sad/0061_sticker_bf_089.jpg",
+      "sha256": "d03b858e2ce7e02bb6ac7da259b67ddbd8727bc2c26126665986a8b2e1095376",
+      "format": "JPEG",
+      "frames": 1,
+      "size": [
+        960,
+        960
+      ]
+    },
+    {
+      "source_index": 62,
+      "source_name": "sticker_bf_090.png",
+      "category": "sad",
+      "filename": "0062_sticker_bf_090.png",
+      "path": "memes/sad/0062_sticker_bf_090.png",
+      "sha256": "9352a36b0482ae51cb247d9fbfffa07ab875c689f6902c96682acae1e2ae7359",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        850,
+        807
+      ]
+    },
+    {
+      "source_index": 63,
+      "source_name": "sticker_bf_091.jpg",
+      "category": "angry",
+      "filename": "0063_sticker_bf_091.jpg",
+      "path": "memes/angry/0063_sticker_bf_091.jpg",
+      "sha256": "878ff833d0dcd96328348fc9f7f5cb6b69ab6e979a3f0d8073b4b74044772442",
+      "format": "JPEG",
+      "frames": 1,
+      "size": [
+        960,
+        960
+      ]
+    },
+    {
+      "source_index": 64,
+      "source_name": "sticker_bf_092.png",
+      "category": "confused",
+      "filename": "0064_sticker_bf_092.png",
+      "path": "memes/confused/0064_sticker_bf_092.png",
+      "sha256": "79fd8b23f50c2796b7020926c7eb244763d434e32e48a9967b931dc2da14d06c",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        960,
+        960
+      ]
+    },
+    {
+      "source_index": 65,
+      "source_name": "sticker_bf_093.jpg",
+      "category": "sad",
+      "filename": "0065_sticker_bf_093.jpg",
+      "path": "memes/sad/0065_sticker_bf_093.jpg",
+      "sha256": "53cea9c8b36dbdbba6566a6dc2b8715cb55905203c4b90a9a171b759bee28702",
+      "format": "JPEG",
+      "frames": 1,
+      "size": [
+        455,
+        433
+      ]
+    },
+    {
+      "source_index": 66,
+      "source_name": "sticker_bf_096.webp",
+      "category": "angry",
+      "filename": "0066_sticker_bf_096.webp",
+      "path": "memes/angry/0066_sticker_bf_096.webp",
+      "sha256": "8cf4fd3a280b408df0b932376fc373c217accf2589825a3e5a76007feda7cfa3",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 67,
+      "source_name": "sticker_bf_097.jpg",
+      "category": "tech",
+      "filename": "0067_sticker_bf_097.jpg",
+      "path": "memes/tech/0067_sticker_bf_097.jpg",
+      "sha256": "f9816ba8befb2200032e304096efc7a64ecc0ed60d4235c9440b828d0abd6d1f",
+      "format": "JPEG",
+      "frames": 1,
+      "size": [
+        1261,
+        1247
+      ]
+    },
+    {
+      "source_index": 68,
+      "source_name": "sticker_bf_098.webp",
+      "category": "work",
+      "filename": "0068_sticker_bf_098.webp",
+      "path": "memes/work/0068_sticker_bf_098.webp",
+      "sha256": "15afa0711340cc9a1d995d6373be0d431200b5251f0522f4737e75eff920e3f5",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 69,
+      "source_name": "sticker_bf_099.png",
+      "category": "happy",
+      "filename": "0069_sticker_bf_099.png",
+      "path": "memes/happy/0069_sticker_bf_099.png",
+      "sha256": "965a62355518b074deb69315b945b1fb2eb8ecf83fa434e259e4be2a59f9730d",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        904,
+        864
+      ]
+    },
+    {
+      "source_index": 70,
+      "source_name": "sticker_bf_100.webp",
+      "category": "confused",
+      "filename": "0070_sticker_bf_100.webp",
+      "path": "memes/confused/0070_sticker_bf_100.webp",
+      "sha256": "82d971d54302e309d302e1582a6dd99b5068735540f34f6d280aa6a3a0d42983",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 71,
+      "source_name": "sticker_bf_101.png",
+      "category": "confused",
+      "filename": "0071_sticker_bf_101.png",
+      "path": "memes/confused/0071_sticker_bf_101.png",
+      "sha256": "1560ef71917328c116bcb2ba91efcaf80a2d9f6a6188a22f1511376a5ef36a1d",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        648,
+        648
+      ]
+    },
+    {
+      "source_index": 72,
+      "source_name": "sticker_bf_102.png",
+      "category": "confused",
+      "filename": "0072_sticker_bf_102.png",
+      "path": "memes/confused/0072_sticker_bf_102.png",
+      "sha256": "00911e08ceb461cfa9763342fb5ff8be8c813642225abce5413d06f31995b05b",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        648,
+        598
+      ]
+    },
+    {
+      "source_index": 73,
+      "source_name": "sticker_bf_103.png",
+      "category": "sleep",
+      "filename": "0073_sticker_bf_103.png",
+      "path": "memes/sleep/0073_sticker_bf_103.png",
+      "sha256": "7008abdde0fa8ad8ea2815bc194f9c6037f58a560ab578fa6cccd0263aeb2957",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_index": 74,
+      "source_name": "sticker_bf_105.webp",
+      "category": "happy",
+      "filename": "0074_sticker_bf_105.webp",
+      "path": "memes/happy/0074_sticker_bf_105.webp",
+      "sha256": "c5bfa49bff97049f9298da210556e60312f0ba5dd9e1e1e5db25b22c08283ddd",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 75,
+      "source_name": "sticker_bf_107.jpg",
+      "category": "happy",
+      "filename": "0075_sticker_bf_107.jpg",
+      "path": "memes/happy/0075_sticker_bf_107.jpg",
+      "sha256": "131ca4db25ed379b8902f2793b91608a0febb70c4fd12e82666a8f053177780f",
+      "format": "JPEG",
+      "frames": 1,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_index": 76,
+      "source_name": "sticker_bf_109.png",
+      "category": "angry",
+      "filename": "0076_sticker_bf_109.png",
+      "path": "memes/angry/0076_sticker_bf_109.png",
+      "sha256": "4e9f775d5ae3e00cb7de01296dd772cda7881d8abbd95da1283ddada2d6627a3",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        648,
+        648
+      ]
+    },
+    {
+      "source_index": 77,
+      "source_name": "sticker_bf_110.webp",
+      "category": "greeting",
+      "filename": "0077_sticker_bf_110.webp",
+      "path": "memes/greeting/0077_sticker_bf_110.webp",
+      "sha256": "5c38a622f119c871bf6ca14c7926e3aded2e7a8f669b8eae6ca70ac1004b427a",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 78,
+      "source_name": "sticker_bf_111.webp",
+      "category": "work",
+      "filename": "0078_sticker_bf_111.webp",
+      "path": "memes/work/0078_sticker_bf_111.webp",
+      "sha256": "b39c4e34bcbbe2a906b37d8ff0ef3ff5a4fefff798d17f8d96e05b74059fd45b",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 79,
+      "source_name": "sticker_bf_112.webp",
+      "category": "tech",
+      "filename": "0079_sticker_bf_112.webp",
+      "path": "memes/tech/0079_sticker_bf_112.webp",
+      "sha256": "eb8b0c02786820893e1bf7e33f89e3660ce3318b1ae5181e40b89fb3784121fa",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 80,
+      "source_name": "sticker_bf_117.png",
+      "category": "work",
+      "filename": "0080_sticker_bf_117.png",
+      "path": "memes/work/0080_sticker_bf_117.png",
+      "sha256": "f7ad59062f819c752abc0380d667ce8679816b02f0a7763fdea00874bb477d7e",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        648,
+        590
+      ]
+    },
+    {
+      "source_index": 81,
+      "source_name": "sticker_bf_120.png",
+      "category": "happy",
+      "filename": "0081_sticker_bf_120.png",
+      "path": "memes/happy/0081_sticker_bf_120.png",
+      "sha256": "ced7c5aeb53dbea23978b07ae4defca2bfcaf546549aa66f5a0ae634e087fa08",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1168,
+        1347
+      ]
+    },
+    {
+      "source_index": 82,
+      "source_name": "sticker_bf_121.png",
+      "category": "money",
+      "filename": "0082_sticker_bf_121.png",
+      "path": "memes/money/0082_sticker_bf_121.png",
+      "sha256": "8b792e62a01ad250ba6cff8151337e1b6424725b128339b5d8ef193abef113a0",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        800,
+        533
+      ]
+    },
+    {
+      "source_index": 83,
+      "source_name": "sticker_bf_122.webp",
+      "category": "happy",
+      "filename": "0083_sticker_bf_122.webp",
+      "path": "memes/happy/0083_sticker_bf_122.webp",
+      "sha256": "d004a0fb9bb969896ff1853a26e650bdcf7c73365daef41708be9ebf0354bc99",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 84,
+      "source_name": "sticker_bf_123.png",
+      "category": "greeting",
+      "filename": "0084_sticker_bf_123.png",
+      "path": "memes/greeting/0084_sticker_bf_123.png",
+      "sha256": "816f37389b9e048329ea045cd1d072df1b5a3849e5516553198200c50bd68d97",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        648,
+        447
+      ]
+    },
+    {
+      "source_index": 85,
+      "source_name": "sticker_bf_124.png",
+      "category": "greeting",
+      "filename": "0085_sticker_bf_124.png",
+      "path": "memes/greeting/0085_sticker_bf_124.png",
+      "sha256": "5e612c579a336f54f250211869d1ef873e82c2bf1528d8adcbd2848459e5409b",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1521,
+        1034
+      ]
+    },
+    {
+      "source_index": 86,
+      "source_name": "sticker_bf_125.png",
+      "category": "confused",
+      "filename": "0086_sticker_bf_125.png",
+      "path": "memes/confused/0086_sticker_bf_125.png",
+      "sha256": "2c005794a4d496c255fd61f8f96e688790ada4e507e2b5472430d7535867ccbd",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 87,
+      "source_name": "sticker_bf_126.webp",
+      "category": "food",
+      "filename": "0087_sticker_bf_126.webp",
+      "path": "memes/food/0087_sticker_bf_126.webp",
+      "sha256": "9dd257bf871cb76af5c779fc0bcc5762a99eb12da3f5bbbc6ecce50c737f46cf",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 88,
+      "source_name": "sticker_bf_127.jpg",
+      "category": "confused",
+      "filename": "0088_sticker_bf_127.jpg",
+      "path": "memes/confused/0088_sticker_bf_127.jpg",
+      "sha256": "7df3c4067fdd0c3caf849946ab5f9e04e3d3f3a23b51b391367976596d935e62",
+      "format": "JPEG",
+      "frames": 1,
+      "size": [
+        960,
+        960
+      ]
+    },
+    {
+      "source_index": 89,
+      "source_name": "sticker_bf_128.png",
+      "category": "sad",
+      "filename": "0089_sticker_bf_128.png",
+      "path": "memes/sad/0089_sticker_bf_128.png",
+      "sha256": "7a7ecba43a5e0fcf3bb9fe83c0ecef7ba5da103a0e25d3038c5321b785c64366",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1500,
+        2004
+      ]
+    },
+    {
+      "source_index": 90,
+      "source_name": "sticker_bf_129.webp",
+      "category": "affection",
+      "filename": "0090_sticker_bf_129.webp",
+      "path": "memes/affection/0090_sticker_bf_129.webp",
+      "sha256": "995c5bd42fef0d9f7524bfd400326012d152c29561c4d1bb31f14915f19df8eb",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 91,
+      "source_name": "sticker_bf_130.webp",
+      "category": "confused",
+      "filename": "0091_sticker_bf_130.webp",
+      "path": "memes/confused/0091_sticker_bf_130.webp",
+      "sha256": "0458b46b653a6cdf4020f53e7084e4db01e6b9dc2d8f69a5bb2b36853451daa4",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 92,
+      "source_name": "sticker_bf_131.png",
+      "category": "tech",
+      "filename": "0092_sticker_bf_131.png",
+      "path": "memes/tech/0092_sticker_bf_131.png",
+      "sha256": "5c747ab6c052197c9223e135ec163e25b250810f8a0a5c5b7bc7912991f1530e",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_index": 93,
+      "source_name": "sticker_bf_132.webp",
+      "category": "money",
+      "filename": "0093_sticker_bf_132.webp",
+      "path": "memes/money/0093_sticker_bf_132.webp",
+      "sha256": "64eaef69ac926063272530587ee19fb83a70a90be518079713155b758a62270b",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 94,
+      "source_name": "sticker_bf_133.png",
+      "category": "angry",
+      "filename": "0094_sticker_bf_133.png",
+      "path": "memes/angry/0094_sticker_bf_133.png",
+      "sha256": "a863f4df828c2d6e59662228f8afe4063a1d3b4f0a9835662b4b69afb73493c7",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_index": 95,
+      "source_name": "sticker_bf_134.png",
+      "category": "sad",
+      "filename": "0095_sticker_bf_134.png",
+      "path": "memes/sad/0095_sticker_bf_134.png",
+      "sha256": "ff0a19bf6cabe246965626859e690f6f9164060c76febd9e26968eabd2da1501",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        648,
+        648
+      ]
+    },
+    {
+      "source_index": 96,
+      "source_name": "sticker_bf_137.png",
+      "category": "work",
+      "filename": "0096_sticker_bf_137.png",
+      "path": "memes/work/0096_sticker_bf_137.png",
+      "sha256": "75228197b1940a3e8fa53cee3140f33150b93bff2d2dd77871d02753c5455dad",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        463,
+        648
+      ]
+    },
+    {
+      "source_index": 97,
+      "source_name": "sticker_bf_141.webp",
+      "category": "affection",
+      "filename": "0097_sticker_bf_141.webp",
+      "path": "memes/affection/0097_sticker_bf_141.webp",
+      "sha256": "bc4b1d1d753ec7f901365325b77c7e1078e791ca7cd397db2d65e9da98894cfd",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 98,
+      "source_name": "sticker_bf_142.png",
+      "category": "happy",
+      "filename": "0098_sticker_bf_142.png",
+      "path": "memes/happy/0098_sticker_bf_142.png",
+      "sha256": "302cdc2f5d5d7ee04b5753d33ead5daeadb8288df1c7a2cf4cc804ad8a08a214",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        960,
+        960
+      ]
+    },
+    {
+      "source_index": 99,
+      "source_name": "sticker_bf_143.webp",
+      "category": "happy",
+      "filename": "0099_sticker_bf_143.webp",
+      "path": "memes/happy/0099_sticker_bf_143.webp",
+      "sha256": "7527a972fabcfa8714f283e2b8d105875eee2b19577b31dcbdbee12f54caf41b",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 100,
+      "source_name": "sticker_bf_144.png",
+      "category": "happy",
+      "filename": "0100_sticker_bf_144.png",
+      "path": "memes/happy/0100_sticker_bf_144.png",
+      "sha256": "1d2f8682ee3d168ce5a56886e5255b8d22613fc3d88e8a3641be8365b0916929",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        648,
+        648
+      ]
+    },
+    {
+      "source_index": 101,
+      "source_name": "sticker_bf_145.jpg",
+      "category": "sad",
+      "filename": "0101_sticker_bf_145.jpg",
+      "path": "memes/sad/0101_sticker_bf_145.jpg",
+      "sha256": "cb0ba97d665e5ee2ae872987cf5b4e3beaf79584f254627871a861cf3730da97",
+      "format": "JPEG",
+      "frames": 1,
+      "size": [
+        1280,
+        1138
+      ]
+    },
+    {
+      "source_index": 102,
+      "source_name": "sticker_bf_147.png",
+      "category": "affection",
+      "filename": "0102_sticker_bf_147.png",
+      "path": "memes/affection/0102_sticker_bf_147.png",
+      "sha256": "38721af1f474d8f8bd717e3aad3f3f5da861a1261b40dfc4ea06bdd18de26cfc",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_index": 103,
+      "source_name": "sticker_bf_148.png",
+      "category": "food",
+      "filename": "0103_sticker_bf_148.png",
+      "path": "memes/food/0103_sticker_bf_148.png",
+      "sha256": "f536be80b43d2579e3f9d09f700209bc320de7d71bc436016ba409cfcdd16997",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_index": 104,
+      "source_name": "sticker_bf_149.png",
+      "category": "tech",
+      "filename": "0104_sticker_bf_149.png",
+      "path": "memes/tech/0104_sticker_bf_149.png",
+      "sha256": "8998077c903817fc65ac4bb1e200143de65ffe3fb751b924f6252b0966b93feb",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        648,
+        529
+      ]
+    },
+    {
+      "source_index": 105,
+      "source_name": "sticker_bf_151.png",
+      "category": "angry",
+      "filename": "0105_sticker_bf_151.png",
+      "path": "memes/angry/0105_sticker_bf_151.png",
+      "sha256": "0c4d52ab33392fe40d8cc61346ad46f92f4372f2cceb65e473242d9e3270b3b0",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        648,
+        486
+      ]
+    },
+    {
+      "source_index": 106,
+      "source_name": "sticker_bf_152.jpg",
+      "category": "angry",
+      "filename": "0106_sticker_bf_152.jpg",
+      "path": "memes/angry/0106_sticker_bf_152.jpg",
+      "sha256": "6e9ee3521d1081150d231c509bf4a9dec34de3044de241f1cc5ecb7e211506ee",
+      "format": "JPEG",
+      "frames": 1,
+      "size": [
+        960,
+        906
+      ]
+    },
+    {
+      "source_index": 107,
+      "source_name": "sticker_bf_153.webp",
+      "category": "teasing",
+      "filename": "0107_sticker_bf_153.webp",
+      "path": "memes/teasing/0107_sticker_bf_153.webp",
+      "sha256": "ab3373fe8e92b85537f9c3fb5423e9034c799597ad602729ce68600d4d22908b",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 108,
+      "source_name": "sticker_bf_154.png",
+      "category": "happy",
+      "filename": "0108_sticker_bf_154.png",
+      "path": "memes/happy/0108_sticker_bf_154.png",
+      "sha256": "1b333c12242b3ad90dd707f16de50d0560074742083f0a7e5001a6fc6d3cb05f",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        648,
+        648
+      ]
+    },
+    {
+      "source_index": 109,
+      "source_name": "sticker_bf_156.png",
+      "category": "happy",
+      "filename": "0109_sticker_bf_156.png",
+      "path": "memes/happy/0109_sticker_bf_156.png",
+      "sha256": "30f4315136c9557d48b247dbc706cb5f97b1cffdfa3bafd0d00d89e64c365488",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        960,
+        960
+      ]
+    },
+    {
+      "source_index": 110,
+      "source_name": "sticker_bf_157.webp",
+      "category": "food",
+      "filename": "0110_sticker_bf_157.webp",
+      "path": "memes/food/0110_sticker_bf_157.webp",
+      "sha256": "b7fd5ffad2a785e8d0139108c80285ff667300b282e43896c034df5bd064dd29",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 111,
+      "source_name": "sticker_bf_158.png",
+      "category": "sleep",
+      "filename": "0111_sticker_bf_158.png",
+      "path": "memes/sleep/0111_sticker_bf_158.png",
+      "sha256": "6f442d4862e675ba5c786c1f9056543dd725ed0fc36cd22b8e6b4be8556c3568",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        468,
+        647
+      ]
+    },
+    {
+      "source_index": 112,
+      "source_name": "sticker_bf_160.jpg",
+      "category": "work",
+      "filename": "0112_sticker_bf_160.jpg",
+      "path": "memes/work/0112_sticker_bf_160.jpg",
+      "sha256": "b15bda6adc7e913361733537d3e2912e9b96aeff6ea7e01abb8d17ecf3f2babc",
+      "format": "JPEG",
+      "frames": 1,
+      "size": [
+        960,
+        720
+      ]
+    },
+    {
+      "source_index": 113,
+      "source_name": "sticker_bf_161.png",
+      "category": "sad",
+      "filename": "0113_sticker_bf_161.png",
+      "path": "memes/sad/0113_sticker_bf_161.png",
+      "sha256": "8ac900ff84f0f051d4ea641c5c6695498fa6ccf4d7ff8b1b8f47ef3b3bf60fea",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1137,
+        1080
+      ]
+    },
+    {
+      "source_index": 114,
+      "source_name": "sticker_bf_162.webp",
+      "category": "confused",
+      "filename": "0114_sticker_bf_162.webp",
+      "path": "memes/confused/0114_sticker_bf_162.webp",
+      "sha256": "b05c87dbab725c82a44a889a1bef5b12dc874deaa6c12dcc206274b11b7e31b6",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 115,
+      "source_name": "sticker_bf_164.webp",
+      "category": "confused",
+      "filename": "0115_sticker_bf_164.webp",
+      "path": "memes/confused/0115_sticker_bf_164.webp",
+      "sha256": "328efed30f59fbf21c6763ae6dc145abc8016a1d497228b112ed14cee05b680a",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 116,
+      "source_name": "sticker_bf_166.png",
+      "category": "angry",
+      "filename": "0116_sticker_bf_166.png",
+      "path": "memes/angry/0116_sticker_bf_166.png",
+      "sha256": "a4c15735e4ff0320eaf0f3e7126eb727e9bbe45cf0353a6324afc37437b83d8d",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1280,
+        1129
+      ]
+    },
+    {
+      "source_index": 117,
+      "source_name": "sticker_bf_169.png",
+      "category": "confused",
+      "filename": "0117_sticker_bf_169.png",
+      "path": "memes/confused/0117_sticker_bf_169.png",
+      "sha256": "3374a8a6ba848ef82f717e0bdf5e497a7b59b5efc6b06d90c8e51e26b4498fc3",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        648,
+        648
+      ]
+    },
+    {
+      "source_index": 118,
+      "source_name": "sticker_bf_170.png",
+      "category": "tech",
+      "filename": "0118_sticker_bf_170.png",
+      "path": "memes/tech/0118_sticker_bf_170.png",
+      "sha256": "4eeba59476278999bb988c00e8b6ea79570f39e10bcf72abd173c666b17947b4",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        648,
+        648
+      ]
+    },
+    {
+      "source_index": 119,
+      "source_name": "sticker_bf_171.png",
+      "category": "sad",
+      "filename": "0119_sticker_bf_171.png",
+      "path": "memes/sad/0119_sticker_bf_171.png",
+      "sha256": "a08b0aeab2f8d05dc2614e3548307f133136a8ea1e110cb60c4f0464a67cae13",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1920,
+        1920
+      ]
+    },
+    {
+      "source_index": 120,
+      "source_name": "sticker_bf_173.webp",
+      "category": "tech",
+      "filename": "0120_sticker_bf_173.webp",
+      "path": "memes/tech/0120_sticker_bf_173.webp",
+      "sha256": "33cff860263d254e8c0074a1b9c63b75d24941b02eb0648d03905b5c8ecb8242",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 121,
+      "source_name": "sticker_bf_174.png",
+      "category": "sad",
+      "filename": "0121_sticker_bf_174.png",
+      "path": "memes/sad/0121_sticker_bf_174.png",
+      "sha256": "69168b0b0dc0eba9d84b2bce50a6783d3eea8d0d2c38b3dc03b0dde05ed87d9b",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        648,
+        648
+      ]
+    },
+    {
+      "source_index": 122,
+      "source_name": "sticker_bf_175.jpg",
+      "category": "confused",
+      "filename": "0122_sticker_bf_175.jpg",
+      "path": "memes/confused/0122_sticker_bf_175.jpg",
+      "sha256": "3fc8001b9e7f90e5313594f65cf88ae88b3e2a9e240d12291237f0628e85e5bd",
+      "format": "JPEG",
+      "frames": 1,
+      "size": [
+        960,
+        715
+      ]
+    },
+    {
+      "source_index": 123,
+      "source_name": "sticker_bf_176.png",
+      "category": "confused",
+      "filename": "0123_sticker_bf_176.png",
+      "path": "memes/confused/0123_sticker_bf_176.png",
+      "sha256": "1fbc1f4ede2b0392ae43713bf18bd5dad0866dbd14b25b0248d7e29bdaf7af24",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        648,
+        648
+      ]
+    },
+    {
+      "source_index": 124,
+      "source_name": "sticker_bf_178.jpg",
+      "category": "food",
+      "filename": "0124_sticker_bf_178.jpg",
+      "path": "memes/food/0124_sticker_bf_178.jpg",
+      "sha256": "650eb757bc75db7e9b1ce5d84468f97dbc1a3de5437744869b8f3109f0ce8b77",
+      "format": "JPEG",
+      "frames": 1,
+      "size": [
+        960,
+        953
+      ]
+    },
+    {
+      "source_index": 125,
+      "source_name": "sticker_bf_180.png",
+      "category": "happy",
+      "filename": "0125_sticker_bf_180.png",
+      "path": "memes/happy/0125_sticker_bf_180.png",
+      "sha256": "d79f61fa756074826a62b85bff01655cc6cfe763cb436685d289104eef44571c",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        648,
+        648
+      ]
+    },
+    {
+      "source_index": 126,
+      "source_name": "sticker_bf_181.jpg",
+      "category": "confused",
+      "filename": "0126_sticker_bf_181.jpg",
+      "path": "memes/confused/0126_sticker_bf_181.jpg",
+      "sha256": "fcb2fe234e58977bd56be3f910e5cf5869f56281d9d17e7c97341809d3902073",
+      "format": "JPEG",
+      "frames": 1,
+      "size": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "source_index": 127,
+      "source_name": "sticker_bf_184.png",
+      "category": "affection",
+      "filename": "0127_sticker_bf_184.png",
+      "path": "memes/affection/0127_sticker_bf_184.png",
+      "sha256": "d557713ae669399be854107893ca1c1b23f7376f8cd06694a123ae0bc40d41b4",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        648,
+        435
+      ]
+    },
+    {
+      "source_index": 128,
+      "source_name": "sticker_bf_185.webp",
+      "category": "sad",
+      "filename": "0128_sticker_bf_185.webp",
+      "path": "memes/sad/0128_sticker_bf_185.webp",
+      "sha256": "e7fca4781c67e1d9d2e700c77e832c6132b99175c9c0686ba6378fba63f89577",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 129,
+      "source_name": "sticker_bf_186.jpg",
+      "category": "angry",
+      "filename": "0129_sticker_bf_186.jpg",
+      "path": "memes/angry/0129_sticker_bf_186.jpg",
+      "sha256": "572b1cf36ad3c10c8c1ad6ecc03836d89aee46d3192290755c1cd79def46bea5",
+      "format": "JPEG",
+      "frames": 1,
+      "size": [
+        960,
+        948
+      ]
+    },
+    {
+      "source_index": 130,
+      "source_name": "sticker_bf_187.webp",
+      "category": "angry",
+      "filename": "0130_sticker_bf_187.webp",
+      "path": "memes/angry/0130_sticker_bf_187.webp",
+      "sha256": "6ea68bbc4d68196fa0499391ccff1262e9dfd2e659cf2f5d1504d28b04f767c5",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 131,
+      "source_name": "sticker_bf_188.jpg",
+      "category": "work",
+      "filename": "0131_sticker_bf_188.jpg",
+      "path": "memes/work/0131_sticker_bf_188.jpg",
+      "sha256": "7c36587ec420c5c8042ad6f541eaed8be5d5f3ad785f924f9cefe5c7c260d0e9",
+      "format": "JPEG",
+      "frames": 1,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_index": 132,
+      "source_name": "sticker_bf_189.webp",
+      "category": "confused",
+      "filename": "0132_sticker_bf_189.webp",
+      "path": "memes/confused/0132_sticker_bf_189.webp",
+      "sha256": "00263b5d2c2c00047579325f0ed132f9ef2558e959f1d705d700b15aeb1adc61",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 133,
+      "source_name": "sticker_bf_190.png",
+      "category": "angry",
+      "filename": "0133_sticker_bf_190.png",
+      "path": "memes/angry/0133_sticker_bf_190.png",
+      "sha256": "33ec0a700460351acbadbe03797e5a78c81f6765894b642b59a5e09cf5417ba8",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_index": 134,
+      "source_name": "sticker_bf_191.jpg",
+      "category": "confused",
+      "filename": "0134_sticker_bf_191.jpg",
+      "path": "memes/confused/0134_sticker_bf_191.jpg",
+      "sha256": "2ff032845007a1cda8d13d746a5403cf28d4041d2c0270a0bc9c19f242092f6b",
+      "format": "JPEG",
+      "frames": 1,
+      "size": [
+        1280,
+        1182
+      ]
+    },
+    {
+      "source_index": 135,
+      "source_name": "sticker_bf_192.webp",
+      "category": "sad",
+      "filename": "0135_sticker_bf_192.webp",
+      "path": "memes/sad/0135_sticker_bf_192.webp",
+      "sha256": "8336d95a92c58595ebb51af404e05cf349f74fe6edc8f9cc8f6f9d98a91bc858",
+      "format": "WEBP",
+      "frames": 1,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "source_index": 136,
+      "source_name": "sticker_bf_193.png",
+      "category": "sleep",
+      "filename": "0136_sticker_bf_193.png",
+      "path": "memes/sleep/0136_sticker_bf_193.png",
+      "sha256": "8dcf40506f57a3531b2d5eef843d8641dc0abaf39fa653ae89e94214a3d897ce",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        688,
+        688
+      ]
+    },
+    {
+      "source_index": 137,
+      "source_name": "sticker_bf_194.png",
+      "category": "happy",
+      "filename": "0137_sticker_bf_194.png",
+      "path": "memes/happy/0137_sticker_bf_194.png",
+      "sha256": "f39da7c9408e35886a3e5f484586796b9269fccb68e56e168ecd35226cdc454e",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        687,
+        687
+      ]
+    },
+    {
+      "source_index": 138,
+      "source_name": "sticker_bf_195.png",
+      "category": "sad",
+      "filename": "0138_sticker_bf_195.png",
+      "path": "memes/sad/0138_sticker_bf_195.png",
+      "sha256": "6ba569728ebb63c44d0de4dd9a2a405904afe580177d6ab2a66c3ac249a68ad9",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 139,
+      "source_name": "sticker_bf_196.png",
+      "category": "angry",
+      "filename": "0139_sticker_bf_196.png",
+      "path": "memes/angry/0139_sticker_bf_196.png",
+      "sha256": "0693638ce86e75dc30b80b34b0246029bff905201b2016c2b997e10abe5ce664",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_index": 140,
+      "source_name": "sticker_bf_197.png",
+      "category": "confused",
+      "filename": "0140_sticker_bf_197.png",
+      "path": "memes/confused/0140_sticker_bf_197.png",
+      "sha256": "0d5cbedf7fdeb5d35385b3e9822fae03fa4c448418b15533a67c0b1507142618",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1024,
+        862
+      ]
+    },
+    {
+      "source_index": 141,
+      "source_name": "sticker_bf_198.png",
+      "category": "tech",
+      "filename": "0141_sticker_bf_198.png",
+      "path": "memes/tech/0141_sticker_bf_198.png",
+      "sha256": "df73e6ffa477d1472a9063dacc383ede48a4318857e8f21862cfc26ce447db7f",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        960,
+        1280
+      ]
+    },
+    {
+      "source_index": 142,
+      "source_name": "sticker_bf_200.png",
+      "category": "confused",
+      "filename": "0142_sticker_bf_200.png",
+      "path": "memes/confused/0142_sticker_bf_200.png",
+      "sha256": "7a851a15f9fe33f0a70aada712d533065806b5f8e770ce58ddbefb23e104c771",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        960,
+        960
+      ]
+    },
+    {
+      "source_index": 143,
+      "source_name": "sticker_bf_201.png",
+      "category": "sad",
+      "filename": "0143_sticker_bf_201.png",
+      "path": "memes/sad/0143_sticker_bf_201.png",
+      "sha256": "aa70a5b2514c72bf14a5a8024916d09cdb3c01d7d9f75fc4bbac5b012c33cb8f",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        960,
+        960
+      ]
+    },
+    {
+      "source_index": 144,
+      "source_name": "sticker_bf_203.jpg",
+      "category": "affection",
+      "filename": "0144_sticker_bf_203.jpg",
+      "path": "memes/affection/0144_sticker_bf_203.jpg",
+      "sha256": "6db2bffe6ff7c81226e0ea0b06d98872679140fc73614ca3d06fa0864f8c47e6",
+      "format": "JPEG",
+      "frames": 1,
+      "size": [
+        960,
+        960
+      ]
+    },
+    {
+      "source_index": 145,
+      "source_name": "sticker_bf_204.png",
+      "category": "sad",
+      "filename": "0145_sticker_bf_204.png",
+      "path": "memes/sad/0145_sticker_bf_204.png",
+      "sha256": "e6f5aa07e77f11db3abb74547bdc7d4d6fa6201ede1628941e9376be99b70f7a",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1122,
+        1402
+      ]
+    },
+    {
+      "source_index": 146,
+      "source_name": "sticker_bf_205.jpg",
+      "category": "greeting",
+      "filename": "0146_sticker_bf_205.jpg",
+      "path": "memes/greeting/0146_sticker_bf_205.jpg",
+      "sha256": "0a44a36f45580740beb99e98524a56bbd301159202a6b462294503b595f1f520",
+      "format": "JPEG",
+      "frames": 1,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_index": 147,
+      "source_name": "sticker_issue_01_001.png",
+      "category": "work",
+      "filename": "0147_sticker_issue_01_001.png",
+      "path": "memes/work/0147_sticker_issue_01_001.png",
+      "sha256": "5ba3af8729f7f9c5d316f73c5d60877d19a30a73dd69ed54757f2df6896f96af",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 148,
+      "source_name": "sticker_issue_02_001.jpg",
+      "category": "greeting",
+      "filename": "0148_sticker_issue_02_001.jpg",
+      "path": "memes/greeting/0148_sticker_issue_02_001.jpg",
+      "sha256": "2b12ce21c4b9433f2f8fefe7e036d19f6fb7f9b24a6c4947be8cf78cb8c60de3",
+      "format": "JPEG",
+      "frames": 1,
+      "size": [
+        540,
+        538
+      ]
+    },
+    {
+      "source_index": 149,
+      "source_name": "sticker_issue_03_001.jpg",
+      "category": "happy",
+      "filename": "0149_sticker_issue_03_001.jpg",
+      "path": "memes/happy/0149_sticker_issue_03_001.jpg",
+      "sha256": "75f76d29315f057137e549f421a7ad42beae94cfb053f3d1510f590b56aac0c2",
+      "format": "JPEG",
+      "frames": 1,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "source_index": 150,
+      "source_name": "sticker_issue_04_001.gif",
+      "category": "portrait",
+      "filename": "0150_sticker_issue_04_001.gif",
+      "path": "memes/portrait/0150_sticker_issue_04_001.gif",
+      "sha256": "5b6c9b99be09d58782c11742bbad2a2b5e34e14d841c1ad97c7d3c6d70d64655",
+      "format": "GIF",
+      "frames": 62,
+      "size": [
+        180,
+        242
+      ]
+    },
+    {
+      "source_index": 151,
+      "source_name": "sticker_issue_05_001.gif",
+      "category": "portrait",
+      "filename": "0151_sticker_issue_05_001.gif",
+      "path": "memes/portrait/0151_sticker_issue_05_001.gif",
+      "sha256": "5006d9b7cad18d7da2b78c51c8638713c86ff70324ef5d0c963b815b432b03af",
+      "format": "GIF",
+      "frames": 53,
+      "size": [
+        180,
+        234
+      ]
+    },
+    {
+      "source_index": 152,
+      "source_name": "sticker_issue_06_001.gif",
+      "category": "portrait",
+      "filename": "0152_sticker_issue_06_001.gif",
+      "path": "memes/portrait/0152_sticker_issue_06_001.gif",
+      "sha256": "1a6eb342d2c7a2aa79bd0a55ff20da203381ae078d7a133c4675ff96a68e29f7",
+      "format": "GIF",
+      "frames": 45,
+      "size": [
+        180,
+        234
+      ]
+    },
+    {
+      "source_index": 153,
+      "source_name": "sticker_issue_07_001.png",
+      "category": "portrait",
+      "filename": "0153_sticker_issue_07_001.png",
+      "path": "memes/portrait/0153_sticker_issue_07_001.png",
+      "sha256": "925e3c3f7157e1d85f4379862b7c0c21daf8f3015bec28d44688a2b7e4dc9de9",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1086,
+        1448
+      ]
+    },
+    {
+      "source_index": 154,
+      "source_name": "sticker_issue_07_002.png",
+      "category": "portrait",
+      "filename": "0154_sticker_issue_07_002.png",
+      "path": "memes/portrait/0154_sticker_issue_07_002.png",
+      "sha256": "0633db99344bea8a361acf5c8ddf83091fa65f867f06187905eaf229c9640e5b",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1086,
+        1448
+      ]
+    },
+    {
+      "source_index": 155,
+      "source_name": "sticker_issue_07_003.png",
+      "category": "portrait",
+      "filename": "0155_sticker_issue_07_003.png",
+      "path": "memes/portrait/0155_sticker_issue_07_003.png",
+      "sha256": "2fca9b71f04224d4015b059e3206093b5d1529ed78c0b9c938a3715fb39e63e2",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "source_index": 156,
+      "source_name": "sticker_issue_07_004.png",
+      "category": "portrait",
+      "filename": "0156_sticker_issue_07_004.png",
+      "path": "memes/portrait/0156_sticker_issue_07_004.png",
+      "sha256": "a9c159a7f3f93257b1f720f658984919a3fcac2699974e48b66296b0f4dd45f5",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "source_index": 157,
+      "source_name": "sticker_issue_07_005.png",
+      "category": "portrait",
+      "filename": "0157_sticker_issue_07_005.png",
+      "path": "memes/portrait/0157_sticker_issue_07_005.png",
+      "sha256": "1efc36ce5cf591b416ee564e0ccd717a56b4f86285d7e53b6322f88856c2a901",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "source_index": 158,
+      "source_name": "sticker_issue_07_006.png",
+      "category": "portrait",
+      "filename": "0158_sticker_issue_07_006.png",
+      "path": "memes/portrait/0158_sticker_issue_07_006.png",
+      "sha256": "fe676e2dce94b1d562e821a15e8eb21c2cfbc261d25cc630b610a0eefe80c107",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "source_index": 159,
+      "source_name": "sticker_issue_07_007.png",
+      "category": "portrait",
+      "filename": "0159_sticker_issue_07_007.png",
+      "path": "memes/portrait/0159_sticker_issue_07_007.png",
+      "sha256": "050d8f95ecf844edf7e564c9a86613fbeaaa5d964f6e86c0b2119e07b72a0bff",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1086,
+        1448
+      ]
+    },
+    {
+      "source_index": 160,
+      "source_name": "sticker_issue_07_008.png",
+      "category": "work",
+      "filename": "0160_sticker_issue_07_008.png",
+      "path": "memes/work/0160_sticker_issue_07_008.png",
+      "sha256": "1677443ac7e41dcd67f8b0333d04b0b99034aab588455314a2b50693ef28fb47",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1402,
+        1122
+      ]
+    },
+    {
+      "source_index": 161,
+      "source_name": "sticker_issue_07_009.png",
+      "category": "sleep",
+      "filename": "0161_sticker_issue_07_009.png",
+      "path": "memes/sleep/0161_sticker_issue_07_009.png",
+      "sha256": "a5051bf01a700be27b65a5529c1099db4e6ee27cb3a2093e41a807391aba840d",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1086,
+        1448
+      ]
+    },
+    {
+      "source_index": 162,
+      "source_name": "sticker_issue_07_010.png",
+      "category": "tech",
+      "filename": "0162_sticker_issue_07_010.png",
+      "path": "memes/tech/0162_sticker_issue_07_010.png",
+      "sha256": "93a9725f28d03ac5dd59891d4e5a683fe898aa448e669bc430f2ef50a05a87ce",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1086,
+        1448
+      ]
+    },
+    {
+      "source_index": 163,
+      "source_name": "sticker_issue_07_011.png",
+      "category": "sleep",
+      "filename": "0163_sticker_issue_07_011.png",
+      "path": "memes/sleep/0163_sticker_issue_07_011.png",
+      "sha256": "f5796a9c8176a1a923b87c705d3161b11be65cea3af2fbe29303ab7f20163faa",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1086,
+        1448
+      ]
+    },
+    {
+      "source_index": 164,
+      "source_name": "sticker_issue_07_012.png",
+      "category": "work",
+      "filename": "0164_sticker_issue_07_012.png",
+      "path": "memes/work/0164_sticker_issue_07_012.png",
+      "sha256": "49d7c2e94f34fb7826771f2e477ce590f80c8e64a10bce5a8ececd9d6101ddda",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1168,
+        1346
+      ]
+    },
+    {
+      "source_index": 165,
+      "source_name": "sticker_issue_07_013.png",
+      "category": "happy",
+      "filename": "0165_sticker_issue_07_013.png",
+      "path": "memes/happy/0165_sticker_issue_07_013.png",
+      "sha256": "7ff69986411b90f5a4c089cb4e8917703ec43362d419708192cd5aef931d1c2e",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_index": 166,
+      "source_name": "sticker_issue_09_001.png",
+      "category": "work",
+      "filename": "0166_sticker_issue_09_001.png",
+      "path": "memes/work/0166_sticker_issue_09_001.png",
+      "sha256": "4c47a44fa90d59add06bd77c229730bc49f913c2d77d5c064124e8a3de624f7a",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "source_index": 167,
+      "source_name": "sticker_issue_10_001.png",
+      "category": "food",
+      "filename": "0167_sticker_issue_10_001.png",
+      "path": "memes/food/0167_sticker_issue_10_001.png",
+      "sha256": "055fdbbe2b62c7e684971660fa1a4688e1f17c379f2b109b17d4ca8892957775",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        2048,
+        1152
+      ]
+    },
+    {
+      "source_index": 168,
+      "source_name": "sticker_issue_11_001.png",
+      "category": "teasing",
+      "filename": "0168_sticker_issue_11_001.png",
+      "path": "memes/teasing/0168_sticker_issue_11_001.png",
+      "sha256": "9bc448f9cc396f6c3fc4ffea4370214536dfbfc3ba574ee23e6ed852a93fdd90",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        863,
+        890
+      ]
+    },
+    {
+      "source_index": 169,
+      "source_name": "sticker_issue_12_001.png",
+      "category": "money",
+      "filename": "0169_sticker_issue_12_001.png",
+      "path": "memes/money/0169_sticker_issue_12_001.png",
+      "sha256": "ab13bbd5be1d65e9ea9384ce4d6b59fe0eca0956ada923281e74821c9aab785b",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_index": 170,
+      "source_name": "sticker_issue_13_001.png",
+      "category": "work",
+      "filename": "0170_sticker_issue_13_001.png",
+      "path": "memes/work/0170_sticker_issue_13_001.png",
+      "sha256": "bdada0f6659ad6dc205c0586bbe8ba381f3f49eb9ff85c3e2b8933a18fcb45ab",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "source_index": 171,
+      "source_name": "sticker_issue_14_001.png",
+      "category": "work",
+      "filename": "0171_sticker_issue_14_001.png",
+      "path": "memes/work/0171_sticker_issue_14_001.png",
+      "sha256": "5b2346436b1e18fe34c7bbb61cb0a3d1da23e203dd91b841753ee68b715a1e2b",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1122,
+        1402
+      ]
+    },
+    {
+      "source_index": 172,
+      "source_name": "sticker_issue_15_001.png",
+      "category": "sad",
+      "filename": "0172_sticker_issue_15_001.png",
+      "path": "memes/sad/0172_sticker_issue_15_001.png",
+      "sha256": "015ed44b74c1242b46ecd31311699f834bec5d6004becaf9e5da0e9d70e3ce6a",
+      "format": "PNG",
+      "frames": 1,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "source_index": 173,
+      "source_name": "sticker_issue_20_001.gif",
+      "category": "food",
+      "filename": "0173_sticker_issue_20_001.gif",
+      "path": "memes/food/0173_sticker_issue_20_001.gif",
+      "sha256": "915632fca4f836f3ab9740f6dcc193e0db24665b83c1f34cba66f46814e8a5cf",
+      "format": "GIF",
+      "frames": 31,
+      "size": [
+        420,
+        490
+      ]
+    },
+    {
+      "source_index": 174,
+      "source_name": "sticker_issue_21_001.jpg",
+      "category": "sleep",
+      "filename": "0174_sticker_issue_21_001.jpg",
+      "path": "memes/sleep/0174_sticker_issue_21_001.jpg",
+      "sha256": "38b05a61690c524669c7acf8730613cea5a82a87015db2ab985c9e55b3f2e8a3",
+      "format": "JPEG",
+      "frames": 1,
+      "size": [
+        544,
+        680
+      ]
+    }
+  ]
+}

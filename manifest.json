@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "id": "deepseek-fanart-meme-pack",
+  "name": "DeepSeek 二创表情包",
+  "version": "1.0.0",
+  "description": "收录 174 张 DeepSeek 二创图片，包含插画、聊天梗图、拟人角色和少量动画，按 13 个聊天语义类别整理。",
+  "author": "Meme Manager 适配与维护：anka-afk；原素材作者待补充",
+  "homepage": "https://github.com/anka-afk/deepseek-fanart-meme-pack",
+  "license": "原素材许可未指定；版权归各权利人，详见 LICENSE",
+  "source": {
+    "type": "github",
+    "repo": "anka-afk/deepseek-fanart-meme-pack",
+    "ref": "v1.0.0",
+    "subpath": "."
+  },
+  "tags": [
+    "official",
+    "deepseek",
+    "fanart",
+    "anime",
+    "mixed-style",
+    "meme-pack"
+  ],
+  "icon": "previews/cover.jpg",
+  "previews": [
+    "previews/cover.jpg",
+    "previews/overview_1.jpg",
+    "previews/overview_2.jpg",
+    "previews/overview_3.jpg",
+    "previews/overview_4.jpg",
+    "previews/overview_5.jpg"
+  ],
+  "compat": {
+    "min_plugin_version": "4.0.0"
+  },
+  "categories": {
+    "sleep": {
+      "description": "用于睡觉、休息、犯困、结束工作、躺平或表示暂时离线。"
+    },
+    "money": {
+      "description": "用于 token、算力、打折、收费、预算或其他资源消耗话题。"
+    },
+    "food": {
+      "description": "用于吃饭、喝汤、投喂、购物、馋嘴、做饭或拿食物开玩笑。"
+    },
+    "affection": {
+      "description": "用于表达喜欢、贴贴、感谢、爱心互动或友好亲近。"
+    },
+    "angry": {
+      "description": "用于生气、抗议、拒绝、催促、责备或夸张式威胁；避免用于真实冲突。"
+    },
+    "sad": {
+      "description": "用于哭泣、委屈、受挫、疲惫、没钱、被打击或自嘲性低落。"
+    },
+    "confused": {
+      "description": "用于疑问、没听懂、反问、选择困难、知识截止时间或模型识别困惑。"
+    },
+    "happy": {
+      "description": "用于开心、胜利、鼓掌、夸赞、上线、打招呼或积极回应。"
+    },
+    "work": {
+      "description": "用于训练、推理、加班、写代码、测试、记录、客服、工作区和任务处理。"
+    },
+    "greeting": {
+      "description": "用于自我介绍、宣布到达、身份说明、向用户回应或展示 DeepSeek 形象。"
+    },
+    "tech": {
+      "description": "用于模型、开源、版本更新、蒸馏、服务器、部署、API 和技术讨论。"
+    },
+    "portrait": {
+      "description": "用于角色立绘、服装展示、动态实拍或作为非文字化形象回应。"
+    },
+    "teasing": {
+      "description": "用于玩梗、整活、调侃竞争模型或轻松吐槽；不用于恶意攻击。"
+    }
+  }
+}
